@@ -1,6 +1,16 @@
-#show-contact {
+#show-contact1 {
+  display: none;
+}#show-contact2 {
+  display: none;
+}#show-contact3 {
   display: none;
 }
-#additional-email{
+#additional-email1{
+  display: none;
+}
+#additional-email2{
+  display: none;
+}
+#additional-email3{
   display: none;
 }
